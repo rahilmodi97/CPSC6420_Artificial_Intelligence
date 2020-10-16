@@ -19,7 +19,22 @@ Policy iteration:
 
 Q-Learning (Crawler bot):
 
+<img src="https://user-images.githubusercontent.com/56795228/96211049-4b90be00-0f41-11eb-9a48-d7235d371e84.gif" width="400">
 
+* Adversarial Games (Connect 4):
+In this assignment we had to design agents for the zero-sum game Connect Four, in which two players take turns dropping a colored disc from the top into a 7x6 grid. The game is won by forming a horizontal, vertical, or diagonal line of four same colored discs. We had to apply Minimax, Alpha-beta pruning and Expectimax to the game.
+
+Minimax:
+
+<img src="https://user-images.githubusercontent.com/56795228/96211056-4f244500-0f41-11eb-9026-d96f5560005c.gif" width="400">
+
+Alpha-beta pruning:
+
+<img src="https://user-images.githubusercontent.com/56795228/96211057-50ee0880-0f41-11eb-9d22-a9ae38e73517.gif" width="400">
+
+Expectimax:
+
+<img src="https://user-images.githubusercontent.com/56795228/96211058-521f3580-0f41-11eb-8fdd-718a922b292c.gif" width="400">
 
 
 
