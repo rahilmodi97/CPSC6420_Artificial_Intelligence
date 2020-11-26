@@ -36,6 +36,29 @@ Expectimax:
 
 <img src="https://user-images.githubusercontent.com/56795228/96211058-521f3580-0f41-11eb-8fdd-718a922b292c.gif" width="400">
 
+* Project 4 - Hidden Markov Model
+In this assignment using knwoledge Hidden Markov Model, implementation of the two inference algorithms exact inference and Particle filter had to be implemented on a problem where tigers had to be tracked in a zoo using HMM.
+
+Exact Inference:
+
+<img src="https://user-images.githubusercontent.com/56795228/100314433-9a8c3300-2f84-11eb-8b13-2edb554b4926.gif" width="500">
+
+Particle filter:
+
+<img src="https://user-images.githubusercontent.com/56795228/100314436-9c55f680-2f84-11eb-9f65-2d6d46463ada.gif" width="500">
 
 
+* Project 5 - Linear Regression and Binary Classification
+In this assignment linear regression, logistic regression and binary perceptron had to be implemented and it could be tested on four different datasets.
 
+Linear Regression:
+
+<img src="https://user-images.githubusercontent.com/56795228/100315145-1f2b8100-2f86-11eb-95c8-120ddf6dec9e.gif" width="500">
+
+Logistic Regression:
+
+<img src="https://user-images.githubusercontent.com/56795228/100314945-bf34da80-2f85-11eb-944a-1ce761d2fde4.gif" width="500">
+
+Binary Perceptron:
+
+<img src="https://user-images.githubusercontent.com/56795228/100314947-c0660780-2f85-11eb-998c-1d82456fc1ad.gif" width="500">
